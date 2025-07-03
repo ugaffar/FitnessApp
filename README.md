@@ -22,6 +22,3 @@ I customized and extended this application to showcase:
 - Visualization of user progress through charts
 - Enhanced user engagement with notifications
 
-## 📬 Contact
-Interested in building a fitness tracking app? Let's get started:
-👉 [https://www.fiverr.com/ugaffar](https://www.fiverr.com/ugaffar)
